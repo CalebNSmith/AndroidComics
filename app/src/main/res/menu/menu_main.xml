@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/comic_bc"
+        android:title="B.C."
+        android:actionLayout="@layout/action_sort"  />
+    <item
+        android:id="@+id/comic_calvinandhobbes"
+        android:title="Calvin and Hobbes"
+        android:actionLayout="@layout/action_sort"  />
+    <item
+        android:id="@+id/comic_garfield"
+        android:title="Garfield"
+        android:actionLayout="@layout/action_sort"  />
+    <item
+        android:id="@+id/comic_pearlsbeforeswine"
+        android:title="Pearls Before Swine"
+        android:actionLayout="@layout/action_sort"  />
+    <item
+        android:id="@+id/comic_peanuts"
+        android:title="Peanuts"
+        android:actionLayout="@layout/action_sort"  />
+
+    <item
+        android:id="@+id/comic_nonsequitur"
+        android:title="Non Sequitur"
+        android:actionLayout="@layout/action_sort"  />
+    <item
+        android:id="@+id/comic_foxtrot"
+        android:title="Foxtrot"
+        android:actionLayout="@layout/action_sort"  />
+
+
+
+</menu>

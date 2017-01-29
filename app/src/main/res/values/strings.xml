@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comics</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="comic_name">Comic name</string>
+</resources>
